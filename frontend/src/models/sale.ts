@@ -1,8 +1,8 @@
 export type Sale = {
-    id: number; 
+    id: number;
     sellerName: string;
     date: string;
-    visited: number;  
-    deals: number; 
-    amount: number; 
+    visited: number;
+    deals: number;
+    amount: number;
 }
